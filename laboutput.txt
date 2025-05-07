@@ -35,11 +35,11 @@ test_b (__main__.lab1d.test_b)
 [Lab 1] - [Investigation 5] - math operators - Test output for correct output "10 + 2 * 5 = 20": ./lab1d.py ... ok
 
 ----------------------------------------------------------------------
-Ran 16 tests in 0.125s
+Ran 16 tests in 0.100s
 
 OK
-OPS445 Lab Report - System Information for running CheckLab1.py
-===============================================================
+OPS445 Lab Report - System Information for running ./CheckLab1.py
+=================================================================
     User login name: mlegrove
     Git Email: mlegrove@myseneca.ca
     Linux system name: mlegrove-VirtualBox
@@ -47,5 +47,5 @@ OPS445 Lab Report - System Information for running CheckLab1.py
     Python version:  3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]
     OS Platform: linux
     Working Directory: /home/mlegrove/ops445/lab1
-    Start at: Tue May  6 17:01:00 2025
-===============================================================
+    Start at: Tue May  6 21:24:08 2025
+=================================================================
